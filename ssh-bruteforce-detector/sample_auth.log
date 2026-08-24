@@ -1,0 +1,12 @@
+Aug 24 21:00:01 host sshd[1001]: Failed password for root from 203.0.113.55 port 51422 ssh2
+Aug 24 21:00:03 host sshd[1002]: Accepted password for deploy from 198.51.100.10 port 40011 ssh2
+Aug 24 21:01:12 host sshd[1003]: Failed password for invalid user admin from 185.220.101.7 port 51514 ssh2
+Aug 24 21:01:14 host sshd[1004]: Failed password for invalid user admin from 185.220.101.7 port 51516 ssh2
+Aug 24 21:01:16 host sshd[1005]: Failed password for invalid user test from 185.220.101.7 port 51518 ssh2
+Aug 24 21:01:18 host sshd[1006]: Failed password for root from 185.220.101.7 port 51520 ssh2
+Aug 24 21:01:20 host sshd[1007]: Failed password for invalid user oracle from 185.220.101.7 port 51522 ssh2
+Aug 24 21:01:22 host sshd[1008]: Failed password for invalid user postgres from 185.220.101.7 port 51524 ssh2
+Aug 24 21:05:40 host sshd[1009]: Failed password for root from 203.0.113.55 port 51430 ssh2
+Aug 24 21:10:00 host sshd[1010]: Accepted password for backup from 198.51.100.10 port 40020 ssh2
+Aug 24 21:15:03 host sshd[1011]: Failed password for invalid user ubuntu from 45.9.20.11 port 40010 ssh2
+Aug 24 21:22:10 host sshd[1012]: Failed password for root from 203.0.113.55 port 51440 ssh2
